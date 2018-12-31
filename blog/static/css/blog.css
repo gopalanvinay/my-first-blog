@@ -1,0 +1,31 @@
+
+a {
+    color: #0f0e0e;
+}
+.page-header {
+    text-align: center;
+}
+
+body{
+    font-family: monospace;
+}
+
+.post {
+
+}
+
+
+.date{
+    padding-left: 20vw;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.content {
+    box-shadow: 1px 0px 10px 0px;
+}
+
+hr {
+    border: 0.5px solid;
+    border-radius: 50%;
+}
